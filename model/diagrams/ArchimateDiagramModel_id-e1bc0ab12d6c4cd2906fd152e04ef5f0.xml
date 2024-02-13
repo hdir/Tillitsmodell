@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tillitsrammeverkets bestanddeler"
     id="id-e1bc0ab12d6c4cd2906fd152e04ef5f0"
-    documentation="Basert på masterpresentasjon fra NHN. Regler, prosesser, standarder og løsningstjenester burde egentlig vært composed in tillitsammeverket - men det tillates ikke av Archimate, så velger association i stedet. Kunne vært grouping i stedet.">
+    documentation="Basert på masterpresentasjon fra NHN. Regler, prosesser, standarder og løsningstjenester burde egentlig vært composed in tillitsammeverket - men det tillates ikke av Archimate, så velger association i stedet. Burde kanskje vært grouping heller?">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c1dc7f43f4214367bc6a9c12285cb077"
