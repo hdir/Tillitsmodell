@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tillitsrammeverk kapabiliteter"
-    id="id-49e3abfd07b94ea69b3fdbd8e3e20c81">
+    id="id-49e3abfd07b94ea69b3fdbd8e3e20c81"
+    documentation="Overordnet kapabilitetsmodell for tillitsrammeverket.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-16387183d01c47cc8db57d1141159f85"
