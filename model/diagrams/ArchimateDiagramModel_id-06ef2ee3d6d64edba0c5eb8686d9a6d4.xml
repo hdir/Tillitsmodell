@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tillitsrammeverk kapabiliteter del 1"
-    id="id-06ef2ee3d6d64edba0c5eb8686d9a6d4">
+    id="id-06ef2ee3d6d64edba0c5eb8686d9a6d4"
+    documentation="Historikk fra TAG 2021">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0742f888e0064ea8bfd8ddb8975a656f"

@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tillitsrammeverk"
     id="id-306e0546311e4ac0bb84d5a9d74d61f0"
+    purpose="Modeller for arbeidet med videreutvikling av referanse og målarkitektur for tillitsrammeverk."
     version="5.0.0"/>
