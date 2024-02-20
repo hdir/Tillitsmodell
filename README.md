@@ -10,7 +10,7 @@ Modellene oppdateres fortløpende i [dokumentasjonen](https://hdir.github.io/Til
 
 ## Archi og coArchi Archi plugin
 
-For å åpne modellene trenger du arkitekturverktøyet [Archi](https://www.archimatetool.com/) og coArchi plugin. Archi kan lastes ned [her](https://www.archimatetool.com/download/) og plugin lastes ned fra [Archimate tool](https://www.archimatetool.com/plugins/). Plugin må installeres i Archi.
+For å åpne modellene trenger du arkitekturverktøyet [Archi](https://www.archimatetool.com/) og coArchi plugin. Archi kan lastes ned [her](https://www.archimatetool.com/download/) og plugin lastes ned fra [Archimate tool](https://www.archimatetool.com/plugins/#coArchi). Plugin må installeres i Archi.
 
 Nå trenger du et [Personal access token fra Github](https://github.com/settings/tokens).
 
