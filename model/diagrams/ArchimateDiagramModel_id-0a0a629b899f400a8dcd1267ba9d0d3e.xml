@@ -100,6 +100,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-10817c6fe8ca4efaabe9b839d45b854c"
       targetConnections="id-c6474ed1604148bdbe8a0961068076e8 id-3a8136fded40468595bba962b65c579b"
+      alpha="100"
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
