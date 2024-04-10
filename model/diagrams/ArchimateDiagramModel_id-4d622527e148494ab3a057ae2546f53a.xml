@@ -142,8 +142,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-57b4c693edca4d8a826c39bbf867f725"
-      type="1">
+      id="id-57b4c693edca4d8a826c39bbf867f725">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-85412bcd41064b719540d49f5d08d9b0"
@@ -159,8 +158,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-d95141d2ab244ab191219ef0400a2840.xml#id-d95141d2ab244ab191219ef0400a2840"/>
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-21ac5529e8ef4b7e8059213c2142785a.xml#id-21ac5529e8ef4b7e8059213c2142785a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

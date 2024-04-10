@@ -4,8 +4,8 @@
     name="består av"
     id="id-66e88743c7e34172b26148a6a0ea21b6">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-d95141d2ab244ab191219ef0400a2840.xml#id-d95141d2ab244ab191219ef0400a2840"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-21ac5529e8ef4b7e8059213c2142785a.xml#id-21ac5529e8ef4b7e8059213c2142785a"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-009d179097c34c4e8fb1c7b45a5bfd0a.xml#id-009d179097c34c4e8fb1c7b45a5bfd0a"/>
