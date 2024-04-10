@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="består av"
+    id="id-66e88743c7e34172b26148a6a0ea21b6">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d95141d2ab244ab191219ef0400a2840.xml#id-d95141d2ab244ab191219ef0400a2840"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-009d179097c34c4e8fb1c7b45a5bfd0a.xml#id-009d179097c34c4e8fb1c7b45a5bfd0a"/>
+</archimate:AssociationRelationship>

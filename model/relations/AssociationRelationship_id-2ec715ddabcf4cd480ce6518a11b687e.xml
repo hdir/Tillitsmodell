@@ -4,8 +4,8 @@
     name="Tilbys av"
     id="id-2ec715ddabcf4cd480ce6518a11b687e">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-856634312d754f3686fef9454afcb605.xml#id-856634312d754f3686fef9454afcb605"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-f896cf8ea4924aa985252ffe96d9e6b1.xml#id-f896cf8ea4924aa985252ffe96d9e6b1"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-b7dcb4c08de34468b2a1421e38f3ac6f.xml#id-b7dcb4c08de34468b2a1421e38f3ac6f"/>
