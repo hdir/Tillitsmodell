@@ -1,11 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="tilbys av"
-    id="id-2ec715ddabcf4cd480ce6518a11b687e">
+    name="implementerer regler"
+    id="id-b4f4348f2ae949aab6d6a219046a764b">
   <source
-      xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-f896cf8ea4924aa985252ffe96d9e6b1.xml#id-f896cf8ea4924aa985252ffe96d9e6b1"/>
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5394afcea214407eb9b1db4b545c861b.xml#id-5394afcea214407eb9b1db4b545c861b"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-b7dcb4c08de34468b2a1421e38f3ac6f.xml#id-b7dcb4c08de34468b2a1421e38f3ac6f"/>

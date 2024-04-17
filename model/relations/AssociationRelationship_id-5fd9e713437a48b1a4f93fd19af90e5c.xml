@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gir rammer for"
+    id="id-5fd9e713437a48b1a4f93fd19af90e5c">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-ce0ae00329ed40af9e74bfd39df6db99.xml#id-ce0ae00329ed40af9e74bfd39df6db99"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fb40801342e24cde87da01097d3fdd84.xml#id-fb40801342e24cde87da01097d3fdd84"/>
+</archimate:AssociationRelationship>
