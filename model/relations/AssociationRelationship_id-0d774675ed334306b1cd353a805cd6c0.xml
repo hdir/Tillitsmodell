@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gir rammer for"
+    name="gir rammer for"
     id="id-0d774675ed334306b1cd353a805cd6c0">
   <source
       xsi:type="archimate:BusinessObject"

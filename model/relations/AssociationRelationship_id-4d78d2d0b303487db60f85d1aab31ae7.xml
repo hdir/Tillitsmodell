@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Er en samling av"
+    name="er en samling av"
     id="id-4d78d2d0b303487db60f85d1aab31ae7">
   <source
       xsi:type="archimate:BusinessObject"
