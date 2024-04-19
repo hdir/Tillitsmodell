@@ -1,11 +1,10 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="består av"
-    id="id-4d78d2d0b303487db60f85d1aab31ae7">
+    id="id-1befb016f8ca4904a63f318a0eed49d3">
   <source
-      xsi:type="archimate:Product"
-      href="Product_id-c7f47bc5b0274192bff07402aa480ef6.xml#id-c7f47bc5b0274192bff07402aa480ef6"/>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-7a7d20f092ec4efcbac694dd7861323f.xml#id-7a7d20f092ec4efcbac694dd7861323f"/>
   <target
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-2be596154b76439ebf0549776e3b7b7c.xml#id-2be596154b76439ebf0549776e3b7b7c"/>
