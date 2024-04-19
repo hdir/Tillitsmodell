@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begreper"
-    id="id-4d622527e148494ab3a057ae2546f53a">
+    id="id-4d622527e148494ab3a057ae2546f53a"
+    documentation="Kan være standarder.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4a52d4e97f164ed0b162e31a4b39624a"
