@@ -4,6 +4,10 @@ Samarbeidsområde for Helsedirektoratets arbeid med videreutvikling av referanse
 
 Modellene oppdateres fortløpende i [dokumentasjonen](https://hdir.github.io/Tillitsrammeverk/)
 
+## Begrepsmodell for tillitsmodell
+
+![Begrepsmodell tillitsmodell](https://hdir.github.io/Tillitsrammeverk/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-4d622527e148494ab3a057ae2546f53a.png)
+
 ## Verdistrøm for tillitsrammeverket
 
 ![Verdistrøm for tillitsrammeverket](https://raw.githubusercontent.com/hdir/Tillitsrammeverk/gh-pages/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-0a0a629b899f400a8dcd1267ba9d0d3e.png)
