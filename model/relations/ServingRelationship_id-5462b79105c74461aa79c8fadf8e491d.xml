@@ -1,12 +1,12 @@
-<archimate:AssociationRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="består av"
-    id="id-0a8a698edfa544879e73de2c32e59fee">
+    name="bruker"
+    id="id-5462b79105c74461aa79c8fadf8e491d">
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_id-2be596154b76439ebf0549776e3b7b7c.xml#id-2be596154b76439ebf0549776e3b7b7c"/>
   <target
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-8d719bac8dbc4f6891c792d39aaf9086.xml#id-8d719bac8dbc4f6891c792d39aaf9086"/>
-</archimate:AssociationRelationship>
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-7a7d20f092ec4efcbac694dd7861323f.xml#id-7a7d20f092ec4efcbac694dd7861323f"/>
+</archimate:ServingRelationship>
