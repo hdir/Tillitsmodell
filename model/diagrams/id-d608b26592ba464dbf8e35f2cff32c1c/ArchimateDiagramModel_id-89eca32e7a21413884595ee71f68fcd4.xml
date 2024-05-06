@@ -110,20 +110,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d833a9b3a80541499ceaf8536a3dee5c"
-        font="1|Calibri Light|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-        type="1">
-      <bounds
-          x="346"
-          y="69"
-          width="88"
-          height="63"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-677bf4806626449bb2165fb8a52464ca.xml#id-677bf4806626449bb2165fb8a52464ca"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a2b9ba6be7814dc3ace99bfa9b05bc2b"
         font="1|Calibri Light|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
         type="1">
@@ -135,6 +121,19 @@
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-5d6ee80593424a4d958e07e20544249e.xml#id-5d6ee80593424a4d958e07e20544249e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-eb1d238ca1734a408eddbe15f2aa75b2"
+        type="1">
+      <bounds
+          x="348"
+          y="69"
+          width="88"
+          height="63"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-8d719bac8dbc4f6891c792d39aaf9086.xml#id-8d719bac8dbc4f6891c792d39aaf9086"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessRole"

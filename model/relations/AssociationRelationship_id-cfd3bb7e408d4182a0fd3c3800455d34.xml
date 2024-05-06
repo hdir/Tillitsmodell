@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bygger på erfaringer fra"
+    id="id-cfd3bb7e408d4182a0fd3c3800455d34">
+  <source
+      xsi:type="archimate:Product"
+      href="Product_id-c7f47bc5b0274192bff07402aa480ef6.xml#id-c7f47bc5b0274192bff07402aa480ef6"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-fb40801342e24cde87da01097d3fdd84.xml#id-fb40801342e24cde87da01097d3fdd84"/>
+</archimate:AssociationRelationship>

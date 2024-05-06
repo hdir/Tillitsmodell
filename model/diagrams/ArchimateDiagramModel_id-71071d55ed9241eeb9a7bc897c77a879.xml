@@ -6,6 +6,34 @@
     documentation="Prosesser og roller som tillitsrammeverket skal understøtte.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-da596542c97347fc82cef187fb966785"
+      textAlignment="1">
+    <bounds
+        x="924"
+        y="36"
+        width="145"
+        height="241"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f6175e931498482a99d55938adb10f9f"
+        targetConnections="id-6eb04e1d82d04dd7985df0c71b42dfc3 id-cd416d2f35cc47dfaa745516a07eb25f"
+        font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
+        type="1">
+      <bounds
+          x="24"
+          y="96"
+          width="109"
+          height="71"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-addee0f613ec495e8a7cec999a59bf6a.xml#id-addee0f613ec495e8a7cec999a59bf6a"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-ebba7add544d4e22968cde146b4225b8.xml#id-ebba7add544d4e22968cde146b4225b8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2a6f448c505d42cb97979b4bda92ba0a"
       targetConnections="id-3971b4ebad2a48359a5d388c50f9010c id-3bca8ad9e72a47139c314d50952a2c36 id-19f8329b2c814ecda207de7348453fcd"
       textAlignment="1">
@@ -26,7 +54,7 @@
     <bounds
         x="552"
         y="36"
-        width="565"
+        width="361"
         height="241"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -215,15 +243,15 @@
         source="id-6b67d3f2866348d1b614cc143b16f325"
         target="id-f6175e931498482a99d55938adb10f9f">
       <bendpoints
-          startX="107"
-          startY="-5"
+          startX="84"
+          startY="2"
           endX="-102"
-          endY="-47"/>
+          endY="-58"/>
       <bendpoints
-          startX="107"
-          startY="31"
+          startX="84"
+          startY="50"
           endX="-102"
-          endY="-11"/>
+          endY="-10"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-195bbb998cd54ad7ab7871d98662b36e.xml#id-195bbb998cd54ad7ab7871d98662b36e"/>
@@ -249,15 +277,15 @@
         source="id-ba1b95b410ab420188018381f573a99a"
         target="id-f6175e931498482a99d55938adb10f9f">
       <bendpoints
-          startX="107"
-          startY="1"
+          startX="84"
+          startY="8"
           endX="-102"
-          endY="61"/>
+          endY="50"/>
       <bendpoints
-          startX="107"
-          startY="-47"
+          startX="84"
+          startY="-28"
           endX="-102"
-          endY="13"/>
+          endY="14"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-8e131867cddb43288cfa5d538ced1a38.xml#id-8e131867cddb43288cfa5d538ced1a38"/>
@@ -279,21 +307,6 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-759502aa7c2145aa9c239bd49fefb69e.xml#id-759502aa7c2145aa9c239bd49fefb69e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f6175e931498482a99d55938adb10f9f"
-      targetConnections="id-6eb04e1d82d04dd7985df0c71b42dfc3 id-cd416d2f35cc47dfaa745516a07eb25f"
-      font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-      type="1">
-    <bounds
-        x="972"
-        y="126"
-        width="109"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-addee0f613ec495e8a7cec999a59bf6a.xml#id-addee0f613ec495e8a7cec999a59bf6a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
