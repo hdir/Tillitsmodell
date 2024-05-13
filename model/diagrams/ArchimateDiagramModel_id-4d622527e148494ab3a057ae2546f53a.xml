@@ -60,6 +60,9 @@
         id="id-3cb82280477343df9853374d3a498b0f"
         source="id-b7dda3a0423b475996066e7bc7e4d01e"
         target="id-4a52d4e97f164ed0b162e31a4b39624a">
+      <features
+          name="labelExpression"
+          value="bygger på &#xD;&#xA;erfaringer fra"/>
       <bendpoints
           startX="-108"
           startY="-15"
