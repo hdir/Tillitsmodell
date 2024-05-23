@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bygger på erfaringer fra"
+    name="realiserer"
     id="id-cfd3bb7e408d4182a0fd3c3800455d34">
   <source
       xsi:type="archimate:Product"
