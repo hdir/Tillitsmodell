@@ -120,7 +120,7 @@
           href="FlowRelationship_id-aeb670fff4db4d3ba38a3eb39d67d6d1.xml#id-aeb670fff4db4d3ba38a3eb39d67d6d1"/>
     </sourceConnections>
     <bounds
-        x="995"
+        x="1031"
         y="240"
         width="145"
         height="79"/>
@@ -405,7 +405,7 @@
           href="AssociationRelationship_id-229c8c11a5264d0898f90a72994887be.xml#id-229c8c11a5264d0898f90a72994887be"/>
     </sourceConnections>
     <bounds
-        x="1008"
+        x="1044"
         y="108"
         width="120"
         height="55"/>
@@ -451,12 +451,17 @@
           startY="69"
           endX="73"
           endY="-255"/>
+      <bendpoints
+          startX="-132"
+          startY="321"
+          endX="121"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8500bd4093834a4fbd53f3dac578c722.xml#id-8500bd4093834a4fbd53f3dac578c722"/>
     </sourceConnections>
     <bounds
-        x="1212"
+        x="1296"
         y="108"
         width="120"
         height="55"/>
@@ -497,6 +502,10 @@
         id="id-81c280e3006b4c28a575723fa1e828bd"
         source="id-379fe418ed0c4eb98bf04eefc6bd87f1"
         target="id-c1fa41b673834266bdcf58fbcd8c7c1e">
+      <bendpoints
+          startX="1"
+          startY="-75"
+          endY="69"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8cc510b0fbe44be88d9b50d82d340942.xml#id-8cc510b0fbe44be88d9b50d82d340942"/>
@@ -511,9 +520,9 @@
           href="AssociationRelationship_id-926dd7e1fb1e46bda555e7b4d14673fa.xml#id-926dd7e1fb1e46bda555e7b4d14673fa"/>
     </sourceConnections>
     <bounds
-        x="1236"
+        x="1283"
         y="240"
-        width="120"
+        width="145"
         height="79"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -526,7 +535,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1224"
+        x="1296"
         y="384"
         width="120"
         height="55"/>
