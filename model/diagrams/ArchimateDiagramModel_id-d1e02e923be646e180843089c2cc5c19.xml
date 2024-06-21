@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tillitsrammeverket interessenter og concerns"
+    name="Interessenter og concerns: Helsevirksomhet"
     id="id-d1e02e923be646e180843089c2cc5c19">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -74,10 +74,10 @@
         source="id-75bb601c868f44b1b397e333a1526d0a"
         target="id-1db31c320ec94555b730ca208e0590ac">
       <bendpoints
-          startX="781"
+          startX="733"
           startY="3"
           endX="1"
-          endY="-237"/>
+          endY="-117"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-9c36233d065841ed9e9499531bfd2069.xml#id-9c36233d065841ed9e9499531bfd2069"/>
@@ -100,6 +100,11 @@
         id="id-f095c5d00a114d609eef2ba98da4612a"
         source="id-c55ce84de06344a59e779f327c8e2feb"
         target="id-7051c15d145c4cb5a1b5bf8172aa0028">
+      <bendpoints
+          startX="1"
+          startY="111"
+          endX="361"
+          endY="-9"/>
       <archimateRelationship
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-d9916c92148042eea2a0c42ae0005dd3.xml#id-d9916c92148042eea2a0c42ae0005dd3"/>
@@ -114,8 +119,8 @@
           href="InfluenceRelationship_id-1964f420de454935b001ace4bf842437.xml#id-1964f420de454935b001ace4bf842437"/>
     </sourceConnections>
     <bounds
-        x="1104"
-        y="312"
+        x="1188"
+        y="192"
         width="142"
         height="66"/>
     <archimateElement
@@ -136,8 +141,8 @@
           href="InfluenceRelationship_id-0155909de77146d584fb04e37f800b44.xml#id-0155909de77146d584fb04e37f800b44"/>
     </sourceConnections>
     <bounds
-        x="1308"
-        y="312"
+        x="1368"
+        y="192"
         width="142"
         height="66"/>
     <archimateElement
