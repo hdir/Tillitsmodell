@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tillitsrammeverk verdistrøm (copy)"
+    name="Tillitsrammeverk verdistrøm med kapabiliteter"
     id="id-80730268495f4a29b3a43297a5c83b05"
     documentation="Verdikjedebetraktning for tillitsrammeverket. Tillitsrammeverket sin verdi for virksomhetene som skal samhandle.">
   <children
