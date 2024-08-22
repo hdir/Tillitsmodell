@@ -6,19 +6,6 @@
     documentation="Verdikjedebetraktning for tillitsrammeverket. Tillitsrammeverket sin verdi for virksomhetene som skal samhandle.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1f67ee31cf0a4909b1eb84867c4e7aec"
-      type="1">
-    <bounds
-        x="1764"
-        y="84"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Value"
-        href="Value_id-6a5a9e61515e45cba642f44ca6314077.xml#id-6a5a9e61515e45cba642f44ca6314077"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-41eba7c2b09149759b375121239661e7"
       targetConnections="id-f874157368034fb1846e2bcf48866896 id-740bc906cd0e44dcb9a923d8eb974ae4"
       textPosition="1"
@@ -262,45 +249,21 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0169893b56eb49399b7df970d7eac035"
+      textPosition="1"
       type="1">
     <bounds
-        x="1285"
-        y="375"
+        x="1260"
+        y="412"
         width="120"
-        height="73"/>
+        height="48"/>
     <archimateElement
         xsi:type="archimate:Value"
         href="Value_id-5399c187bcc4411a90d2f897fd7f204b.xml#id-5399c187bcc4411a90d2f897fd7f204b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-866f50ad2bc143c0b9fc4a177f1f0991"
-      type="1">
-    <bounds
-        x="1239"
-        y="438"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Value"
-        href="Value_id-0388a1167b2f43de8089bd939d1c54c0.xml#id-0388a1167b2f43de8089bd939d1c54c0"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-545cd2aa59794ce98866990b3ebe3c6a"
-      type="1">
-    <bounds
-        x="1754"
-        y="393"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Value"
-        href="Value_id-1b542d3060b740c69ff845727e97b4be.xml#id-1b542d3060b740c69ff845727e97b4be"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-052ce1a3d6bb4725bdd87b0ce8aae2b7"
+      textPosition="1"
       type="1">
     <bounds
         x="1536"
@@ -314,28 +277,16 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-014ba194e61a47cda86378047463e532"
+      textPosition="1"
       type="1">
     <bounds
-        x="1334"
-        y="438"
+        x="1320"
+        y="447"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Value"
         href="Value_id-6a5a9e61515e45cba642f44ca6314077.xml#id-6a5a9e61515e45cba642f44ca6314077"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b2e26e217a8d4d25a1a798ffe5f7a5c3"
-      type="1">
-    <bounds
-        x="1657"
-        y="408"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Value"
-        href="Value_id-02f49c49fda84e299b52b25e38fd77f8.xml#id-02f49c49fda84e299b52b25e38fd77f8"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -606,7 +557,7 @@
       type="1">
     <bounds
         x="1730"
-        y="438"
+        y="447"
         width="120"
         height="55"/>
     <archimateElement
@@ -664,5 +615,32 @@
     <archimateElement
         xsi:type="archimate:Value"
         href="Value_id-f4f595ca4a1e4d37b32bd480b5bf1a8b.xml#id-f4f595ca4a1e4d37b32bd480b5bf1a8b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cc46702845cb4eb6a563757568a515aa"
+      textPosition="1"
+      type="1">
+    <bounds
+        x="1716"
+        y="403"
+        width="120"
+        height="48"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-5399c187bcc4411a90d2f897fd7f204b.xml#id-5399c187bcc4411a90d2f897fd7f204b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1f67ee31cf0a4909b1eb84867c4e7aec"
+      type="1">
+    <bounds
+        x="1764"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Value"
+        href="Value_id-6a5a9e61515e45cba642f44ca6314077.xml#id-6a5a9e61515e45cba642f44ca6314077"/>
   </children>
 </archimate:ArchimateDiagramModel>
