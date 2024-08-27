@@ -10,7 +10,7 @@ Modellene oppdateres fortløpende i [dokumentasjonen](https://hdir.github.io/Til
 
 ## Verdistrøm for tillitsrammeverket
 
-![Verdistrøm for tillitsrammeverket](https://raw.githubusercontent.com/hdir/Tillitsrammeverk/gh-pages/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-0a0a629b899f400a8dcd1267ba9d0d3e.png)
+![Verdistrøm for tillitsrammeverket](https://raw.githubusercontent.com/hdir/Tillitsrammeverk/gh-pages/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-80730268495f4a29b3a43297a5c83b05.png)
 
 ## Archi og coArchi Archi plugin
 
