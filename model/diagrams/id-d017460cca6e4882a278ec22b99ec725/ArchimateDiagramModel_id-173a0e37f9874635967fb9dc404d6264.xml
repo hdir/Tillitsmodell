@@ -267,7 +267,7 @@
       textPosition="1">
     <bounds
         x="723"
-        y="1140"
+        y="876"
         width="120"
         height="55"/>
     <archimateElement
@@ -294,8 +294,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1440"
-        y="984"
+        x="1380"
+        y="624"
         width="120"
         height="55"/>
     <archimateElement
@@ -308,8 +308,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1272"
-        y="984"
+        x="1236"
+        y="600"
         width="120"
         height="55"/>
     <archimateElement
@@ -322,8 +322,8 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1608"
-        y="984"
+        x="1548"
+        y="612"
         width="120"
         height="55"/>
     <archimateElement
