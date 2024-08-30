@@ -1,8 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realiserer"
-    id="id-cfd3bb7e408d4182a0fd3c3800455d34">
+    name="realisering og erfaringer"
+    id="id-cfd3bb7e408d4182a0fd3c3800455d34"
+    directed="true">
   <source
       xsi:type="archimate:Product"
       href="Product_id-c7f47bc5b0274192bff07402aa480ef6.xml#id-c7f47bc5b0274192bff07402aa480ef6"/>
