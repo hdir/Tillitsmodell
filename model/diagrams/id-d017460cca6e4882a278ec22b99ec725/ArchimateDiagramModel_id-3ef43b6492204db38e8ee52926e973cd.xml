@@ -8,8 +8,8 @@
       id="id-cdfcd92f4c8840dfbd0d0d9e4413a8ef"
       textAlignment="1">
     <bounds
-        x="1431"
-        y="176"
+        x="1200"
+        y="264"
         width="145"
         height="241"/>
     <children
@@ -36,8 +36,8 @@
       id="id-3c2c1d0dc1ef4d0fbf722a0a4743fe31"
       textAlignment="1">
     <bounds
-        x="1059"
-        y="176"
+        x="828"
+        y="264"
         width="361"
         height="241"/>
     <archimateElement
@@ -48,11 +48,11 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6a346e23c0d144218d2025596675a5f3"
       font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-      alpha="125"
+      alpha="62"
       type="1">
     <bounds
-        x="900"
-        y="264"
+        x="669"
+        y="352"
         width="109"
         height="71"/>
     <archimateElement
@@ -74,8 +74,8 @@
           href="TriggeringRelationship_id-b5b1949cdd4f444b8377198304dea329.xml#id-b5b1949cdd4f444b8377198304dea329"/>
     </sourceConnections>
     <bounds
-        x="1095"
-        y="212"
+        x="864"
+        y="300"
         width="109"
         height="71"/>
     <archimateElement
@@ -106,8 +106,8 @@
           href="AccessRelationship_id-1b92a3fe23fd4ffbbac32ab976c64828.xml#id-1b92a3fe23fd4ffbbac32ab976c64828"/>
     </sourceConnections>
     <bounds
-        x="1095"
-        y="314"
+        x="864"
+        y="402"
         width="109"
         height="71"/>
     <archimateElement
@@ -140,8 +140,8 @@
           href="TriggeringRelationship_id-195bbb998cd54ad7ab7871d98662b36e.xml#id-195bbb998cd54ad7ab7871d98662b36e"/>
     </sourceConnections>
     <bounds
-        x="1270"
-        y="212"
+        x="1039"
+        y="300"
         width="109"
         height="71"/>
     <archimateElement
@@ -183,8 +183,8 @@
           href="TriggeringRelationship_id-8e131867cddb43288cfa5d538ced1a38.xml#id-8e131867cddb43288cfa5d538ced1a38"/>
     </sourceConnections>
     <bounds
-        x="1270"
-        y="314"
+        x="1039"
+        y="402"
         width="109"
         height="71"/>
     <archimateElement
@@ -197,8 +197,8 @@
       targetConnections="id-92db0584e3b34c118ce19a919fb28cb7"
       textPosition="1">
     <bounds
-        x="1116"
-        y="516"
+        x="885"
+        y="604"
         width="120"
         height="55"/>
     <archimateElement
