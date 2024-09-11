@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-41eba7c2b09149759b375121239661e7"
-      targetConnections="id-f874157368034fb1846e2bcf48866896 id-740bc906cd0e44dcb9a923d8eb974ae4"
+      targetConnections="id-f874157368034fb1846e2bcf48866896 id-d32c80972bce4310aaee44f2187069be"
       textPosition="1"
       type="1">
     <sourceConnections
@@ -88,15 +88,15 @@
         source="id-c9ce79e029db4857a95b5e3150e33ead"
         target="id-7c1c91a774e44ac7a03f1df844bb6d10">
       <bendpoints
-          startX="-299"
-          startY="-33"
-          endX="-108"
-          endY="291"/>
+          startX="97"
+          startY="3"
+          endX="288"
+          endY="327"/>
       <bendpoints
-          startX="-299"
-          startY="-285"
-          endX="-108"
-          endY="39"/>
+          startX="157"
+          startY="-321"
+          endX="168"
+          endY="3"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-e5a7675f28684c098c20e371c5af4147.xml#id-e5a7675f28684c098c20e371c5af4147"/>
@@ -117,20 +117,6 @@
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-740bc906cd0e44dcb9a923d8eb974ae4"
-        source="id-7c1c91a774e44ac7a03f1df844bb6d10"
-        target="id-41eba7c2b09149759b375121239661e7">
-      <bendpoints
-          startX="-1153"
-          startY="3"
-          endX="24"
-          endY="-321"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-9fe2cf3ed9c7411f90077a2bf67083f3.xml#id-9fe2cf3ed9c7411f90077a2bf67083f3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f0f45aad9ee34c5b9f6af85883b0dd67"
         source="id-7c1c91a774e44ac7a03f1df844bb6d10"
         target="id-31251791ee02424cb3dfc43278c0c052">
@@ -139,7 +125,7 @@
           href="FlowRelationship_id-aeb670fff4db4d3ba38a3eb39d67d6d1.xml#id-aeb670fff4db4d3ba38a3eb39d67d6d1"/>
     </sourceConnections>
     <bounds
-        x="1536"
+        x="1716"
         y="186"
         width="145"
         height="79"/>
@@ -212,7 +198,7 @@
       id="id-87e0d096fed14260a03e5cfeddcaba0e"
       type="1">
     <bounds
-        x="326"
+        x="288"
         y="375"
         width="120"
         height="73"/>
@@ -225,7 +211,7 @@
       id="id-6e0c0707e9174fc49fb6afdf8f34f6e7"
       type="1">
     <bounds
-        x="314"
+        x="324"
         y="438"
         width="120"
         height="55"/>
@@ -266,7 +252,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1536"
+        x="1716"
         y="120"
         width="120"
         height="55"/>
@@ -294,8 +280,21 @@
       targetConnections="id-f0f45aad9ee34c5b9f6af85883b0dd67"
       textPosition="1"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d32c80972bce4310aaee44f2187069be"
+        source="id-31251791ee02424cb3dfc43278c0c052"
+        target="id-41eba7c2b09149759b375121239661e7">
+      <bendpoints
+          startX="-574"
+          startY="3"
+          endY="-321"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-7d26c5bb8c664594945deed3e1949564.xml#id-7d26c5bb8c664594945deed3e1949564"/>
+    </sourceConnections>
     <bounds
-        x="1751"
+        x="922"
         y="186"
         width="145"
         height="79"/>
@@ -309,7 +308,7 @@
       textPosition="1"
       type="1">
     <bounds
-        x="1730"
+        x="901"
         y="120"
         width="120"
         height="55"/>
@@ -504,7 +503,7 @@
       id="id-32877b9f520f418491175e5657a76beb"
       textPosition="1">
     <bounds
-        x="1538"
+        x="1718"
         y="276"
         width="120"
         height="55"/>
@@ -543,7 +542,7 @@
       id="id-d69d0f9dc43a4890bb918f692c458a2b"
       textPosition="1">
     <bounds
-        x="1752"
+        x="923"
         y="276"
         width="120"
         height="55"/>
@@ -635,7 +634,7 @@
       id="id-1f67ee31cf0a4909b1eb84867c4e7aec"
       type="1">
     <bounds
-        x="1764"
+        x="935"
         y="72"
         width="120"
         height="55"/>
