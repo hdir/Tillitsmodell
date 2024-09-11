@@ -21,8 +21,8 @@
       id="id-f7396bd6b030411eb5cb79b2150fd5c4"
       textPosition="1">
     <bounds
-        x="720"
-        y="178"
+        x="504"
+        y="372"
         width="120"
         height="55"/>
     <archimateElement
@@ -62,8 +62,8 @@
       font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
       textPosition="1">
     <bounds
-        x="444"
-        y="192"
+        x="434"
+        y="216"
         width="133"
         height="71"/>
     <archimateElement
