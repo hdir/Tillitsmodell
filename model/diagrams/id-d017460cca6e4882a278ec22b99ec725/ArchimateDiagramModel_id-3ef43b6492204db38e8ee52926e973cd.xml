@@ -9,9 +9,8 @@
       targetConnections="id-512acd195d0f437da5065b26a364015a"
       textPosition="1">
     <bounds
-        x="456"
-        y="216"
-        width="637"
+        y="168"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -72,15 +71,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-add28999245140cab0e72811509ecb5e"
-        source="id-4129a67a61d74d8abcc617c4c5a1105b"
-        target="id-70c7dc0d0d24428d882b50c265644b28">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-c9b9116e1c8242cf884e8b5489625de1.xml#id-c9b9116e1c8242cf884e8b5489625de1"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-87bcdbeccf734c068693aeab6768363d"
         source="id-4129a67a61d74d8abcc617c4c5a1105b"
         target="id-6a346e23c0d144218d2025596675a5f3">
@@ -98,117 +88,129 @@
           href="AccessRelationship_id-3cf7235d7da6418ab08772975a740911.xml#id-3cf7235d7da6418ab08772975a740911"/>
     </sourceConnections>
     <bounds
-        x="456"
-        y="324"
-        width="637"
-        height="205"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-b074362498c94f8ba22b09054e589392"
-        targetConnections="id-bdfc8ec0555e4f0b93376c1914779dbd"
-        font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-        textPosition="1">
-      <bounds
-          x="168"
-          y="36"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-22a5dafe59e740f49e72adde30b82f1c.xml#id-22a5dafe59e740f49e72adde30b82f1c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-de143ff8fa8046458f3214ec090b2b6e"
-        targetConnections="id-89fb9552a48b44faa5e0b13f09f444f2"
-        font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-        textPosition="1">
-      <bounds
-          x="324"
-          y="36"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-ca26aab185eb463dbe66dbe3d4e1c171.xml#id-ca26aab185eb463dbe66dbe3d4e1c171"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c4e71b2457d34b36a0dd041d45926537"
-        targetConnections="id-2bda6648417b412fad34de359cdb9781"
-        font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-        textPosition="1">
-      <bounds
-          x="480"
-          y="36"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-addee0f613ec495e8a7cec999a59bf6a.xml#id-addee0f613ec495e8a7cec999a59bf6a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-dfaf84cac8454dea8e007af21de95499"
-        targetConnections="id-40a6264628204061944cda202596634a"
-        font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="120"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-1c99117402ec4474b6cc1f9b15a2d36a.xml#id-1c99117402ec4474b6cc1f9b15a2d36a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c94b07e366c843f9963f4026909dbc34"
-        targetConnections="id-f273f569d1244f8f88878398a1bdcc5e"
-        font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-        textPosition="1">
-      <bounds
-          x="168"
-          y="120"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-759502aa7c2145aa9c239bd49fefb69e.xml#id-759502aa7c2145aa9c239bd49fefb69e"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-70c7dc0d0d24428d882b50c265644b28"
-        targetConnections="id-add28999245140cab0e72811509ecb5e"
-        textPosition="1">
-      <bounds
-          x="324"
-          y="120"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-bb07ab4a4397412598ace450e538e6d7.xml#id-bb07ab4a4397412598ace450e538e6d7"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6a346e23c0d144218d2025596675a5f3"
-        targetConnections="id-87bcdbeccf734c068693aeab6768363d"
-        font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
-        alpha="62"
-        textPosition="1">
-      <bounds
-          x="12"
-          y="36"
-          width="133"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-4d80e921c01946019fc5dfcc462b240d.xml#id-4d80e921c01946019fc5dfcc462b240d"/>
-    </children>
+        x="240"
+        y="113"
+        width="1261"
+        height="397"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-22790af9d3b24c13a1ae4029884aac9f.xml#id-22790af9d3b24c13a1ae4029884aac9f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-758cb61533684c2bb1d4e9a17457dcf2"
+      textPosition="1">
+    <bounds
+        x="672"
+        y="540"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-2e4978779c054f2b94fbe86dd069b321.xml#id-2e4978779c054f2b94fbe86dd069b321"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c942d8f361144fbbb75b9e1d131c6e4b"
+      textPosition="1">
+    <bounds
+        x="655"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-00e8e902472a4cdea130479d887a929a.xml#id-00e8e902472a4cdea130479d887a929a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6a346e23c0d144218d2025596675a5f3"
+      targetConnections="id-87bcdbeccf734c068693aeab6768363d"
+      font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
+      alpha="62"
+      textPosition="1">
+    <bounds
+        x="192"
+        y="276"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-4d80e921c01946019fc5dfcc462b240d.xml#id-4d80e921c01946019fc5dfcc462b240d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-dfaf84cac8454dea8e007af21de95499"
+      targetConnections="id-40a6264628204061944cda202596634a"
+      font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
+      textPosition="1">
+    <bounds
+        x="648"
+        y="276"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-1c99117402ec4474b6cc1f9b15a2d36a.xml#id-1c99117402ec4474b6cc1f9b15a2d36a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b074362498c94f8ba22b09054e589392"
+      targetConnections="id-bdfc8ec0555e4f0b93376c1914779dbd"
+      font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
+      textPosition="1">
+    <bounds
+        x="384"
+        y="384"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-22a5dafe59e740f49e72adde30b82f1c.xml#id-22a5dafe59e740f49e72adde30b82f1c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c94b07e366c843f9963f4026909dbc34"
+      targetConnections="id-f273f569d1244f8f88878398a1bdcc5e"
+      font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
+      textPosition="1">
+    <bounds
+        x="840"
+        y="276"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-759502aa7c2145aa9c239bd49fefb69e.xml#id-759502aa7c2145aa9c239bd49fefb69e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-de143ff8fa8046458f3214ec090b2b6e"
+      targetConnections="id-89fb9552a48b44faa5e0b13f09f444f2"
+      font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
+      textPosition="1">
+    <bounds
+        x="984"
+        y="360"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-ca26aab185eb463dbe66dbe3d4e1c171.xml#id-ca26aab185eb463dbe66dbe3d4e1c171"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c4e71b2457d34b36a0dd041d45926537"
+      targetConnections="id-2bda6648417b412fad34de359cdb9781"
+      font="1|Calibri Light|11.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Calibri Light"
+      textPosition="1">
+    <bounds
+        x="1176"
+        y="300"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-addee0f613ec495e8a7cec999a59bf6a.xml#id-addee0f613ec495e8a7cec999a59bf6a"/>
   </children>
 </archimate:ArchimateDiagramModel>
