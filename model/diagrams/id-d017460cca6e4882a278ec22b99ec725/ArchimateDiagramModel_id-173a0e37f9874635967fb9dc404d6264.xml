@@ -472,20 +472,20 @@
         source="id-e16c6b9899fe4fe6a44de50b12e3bb42"
         target="id-856d19561c394553ac249ecd6e545cc8">
       <bendpoints
-          startX="24"
-          startY="-86"
-          endX="-120"
-          endY="46"/>
+          startX="12"
+          startY="-62"
+          endX="-132"
+          endY="70"/>
       <bendpoints
           startX="108"
-          startY="-86"
+          startY="-62"
           endX="-36"
-          endY="46"/>
+          endY="70"/>
       <bendpoints
           startX="132"
-          startY="-86"
+          startY="-62"
           endX="-12"
-          endY="46"/>
+          endY="70"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-cfb73d8f36d44625a87aa9d1b69ea619.xml#id-cfb73d8f36d44625a87aa9d1b69ea619"/>
