@@ -1,16 +1,16 @@
-# Tillitsrammeverk
+# Tillitsmodell
 
-Samarbeidsområde for Helsedirektoratets arbeid med videreutvikling av referanse og målarkitektur for tillitsrammeverk.
+Samarbeidsområde for Helsedirektoratets arbeid med videreutvikling av referanse og målarkitektur for tillitsmodellen.
 
-Modellene oppdateres fortløpende i [dokumentasjonen](https://hdir.github.io/Tillitsrammeverk/)
+Modellene oppdateres fortløpende i [dokumentasjonen](https://hdir.github.io/Tillitsmodell/)
 
 ## Begrepsmodell for tillitsmodell
 
 ![Begrepsmodell tillitsmodell](https://hdir.github.io/Tillitsrammeverk/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-4d622527e148494ab3a057ae2546f53a.png)
 
-## Verdistrøm for tillitsrammeverket
+## Verdistrøm for tillitsmodellen
 
-![Verdistrøm for tillitsrammeverket](https://hdir.github.io/Tillitsrammeverk/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-80730268495f4a29b3a43297a5c83b05.png)
+![Verdistrøm for tillitsmodell](https://hdir.github.io/Tillitsrammeverk/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-80730268495f4a29b3a43297a5c83b05.png)
 
 ## Archi og coArchi Archi plugin
 
@@ -20,7 +20,7 @@ Nå trenger du et [Personal access token fra Github](https://github.com/settings
 
 På Collobaration velger du `Add remote model`, og legger inn:
 
-* url: `https://github.com/hdir/Tillitsrammeverk.git`
+* url: `https://github.com/hdir/Tillitsmodell.git`
 * user name: ditt Github brukernavn
 * password: ditt personal access token
 
