@@ -6,7 +6,7 @@ Modellene oppdateres fortløpende i [dokumentasjonen](https://hdir.github.io/Til
 
 ## Begrepsmodell for tillitsmodell
 
-![Begrepsmodell tillitsmodell](https://hdir.github.io/Tillitsmodell/id-306e0546311e4ac0bb84d5a9d74d61f0/elements/id-c7f47bc5b0274192bff07402aa480ef6.html)
+![Begrepsmodell tillitsmodell](https://hdir.github.io/Tillitsmodell/id-306e0546311e4ac0bb84d5a9d74d61f0/images/id-4d622527e148494ab3a057ae2546f53a.png)
 
 ## Verdistrøm for tillitsmodellen
 
