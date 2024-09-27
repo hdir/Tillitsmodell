@@ -17,8 +17,8 @@
           href="AggregationRelationship_id-22fd911718e548cd8d2cb689535f5017.xml#id-22fd911718e548cd8d2cb689535f5017"/>
     </sourceConnections>
     <bounds
-        x="360"
-        y="360"
+        x="120"
+        y="300"
         width="672"
         height="109"/>
     <children
@@ -90,8 +90,8 @@
       targetConnections="id-1cebec1e26144531a69f58acbe11428b id-c3d3396c18224cafa4d5df5202f50e22 id-8f4a6cb558cf4708856976837348bfae"
       textPosition="1">
     <bounds
-        x="828"
-        y="144"
+        x="588"
+        y="84"
         width="120"
         height="55"/>
     <archimateElement
@@ -121,8 +121,8 @@
           href="AssociationRelationship_id-1a77134c45384f4a98ffc2a4dd4c32f6.xml#id-1a77134c45384f4a98ffc2a4dd4c32f6"/>
     </sourceConnections>
     <bounds
-        x="420"
-        y="144"
+        x="180"
+        y="84"
         width="120"
         height="55"/>
     <archimateElement
@@ -135,8 +135,8 @@
       targetConnections="id-0a1c3c75e5634ea4ae2545e052811c8b id-830393ffef004514b1ff8046c2d84a4e id-438a07fbb19c47119fb162add8089c23"
       textPosition="1">
     <bounds
-        x="636"
-        y="144"
+        x="396"
+        y="84"
         width="120"
         height="55"/>
     <archimateElement
@@ -204,8 +204,8 @@
           href="AssociationRelationship_id-ab58cdad9db240a3bca61833a11b9899.xml#id-ab58cdad9db240a3bca61833a11b9899"/>
     </sourceConnections>
     <bounds
-        x="780"
-        y="276"
+        x="540"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -233,8 +233,8 @@
           href="AssociationRelationship_id-af649387e2af4488b9551e90b3a18426.xml#id-af649387e2af4488b9551e90b3a18426"/>
     </sourceConnections>
     <bounds
-        x="360"
-        y="276"
+        x="120"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -295,8 +295,8 @@
           href="AccessRelationship_id-6aac9ce823b548a789cbd11b66d88d20.xml#id-6aac9ce823b548a789cbd11b66d88d20"/>
     </sourceConnections>
     <bounds
-        x="360"
-        y="492"
+        x="120"
+        y="432"
         width="672"
         height="96"/>
     <children
@@ -399,8 +399,8 @@
           href="AssociationRelationship_id-62ff553fb0f24386825a3424009af0aa.xml#id-62ff553fb0f24386825a3424009af0aa"/>
     </sourceConnections>
     <bounds
-        x="636"
-        y="276"
+        x="396"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -428,8 +428,8 @@
           href="AssociationRelationship_id-e4e32f6f41ba49308823bdafb799ccda.xml#id-e4e32f6f41ba49308823bdafb799ccda"/>
     </sourceConnections>
     <bounds
-        x="912"
-        y="276"
+        x="672"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
@@ -476,8 +476,8 @@
           href="AssociationRelationship_id-cfb73d8f36d44625a87aa9d1b69ea619.xml#id-cfb73d8f36d44625a87aa9d1b69ea619"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="276"
+        x="252"
+        y="216"
         width="120"
         height="55"/>
     <archimateElement
