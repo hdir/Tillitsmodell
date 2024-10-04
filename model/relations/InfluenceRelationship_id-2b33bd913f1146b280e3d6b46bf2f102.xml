@@ -1,12 +1,11 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bidrar til"
-    id="id-e9ffb1112765473dadf9b8d5bd85d662">
+    id="id-2b33bd913f1146b280e3d6b46bf2f102">
   <source
       xsi:type="archimate:Product"
       href="Product_id-ca7c5e1b99eb4f61a8611af7b2fca919.xml#id-ca7c5e1b99eb4f61a8611af7b2fca919"/>
   <target
       xsi:type="archimate:Value"
-      href="Value_id-3b7882d8aec648cdb77598ec3ffad011.xml#id-3b7882d8aec648cdb77598ec3ffad011"/>
+      href="Value_id-91a2fae513164403b1d34eb782bca600.xml#id-91a2fae513164403b1d34eb782bca600"/>
 </archimate:InfluenceRelationship>
