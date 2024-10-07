@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bruker"
+    id="id-e7cfa43d80af46a6a069054227fed9f3">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-0311e42d41ef4216847d29cc562af237.xml#id-0311e42d41ef4216847d29cc562af237"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3d322863ab93473a8795ca679a29eaab.xml#id-3d322863ab93473a8795ca679a29eaab"/>
+</archimate:ServingRelationship>
