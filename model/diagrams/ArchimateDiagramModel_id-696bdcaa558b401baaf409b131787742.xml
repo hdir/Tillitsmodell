@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tillitsrammeverk verdiforslag"
-    id="id-696bdcaa558b401baaf409b131787742">
+    id="id-696bdcaa558b401baaf409b131787742"
+    documentation="Innspill fra Thomas R Innspill til verdiforsalget for tillitsmodellen. Vi skal jo skal samordne behov og ivareta helsefaglige behov (verdien av det), gi en omforent begrepsmodell (verdien av det) og scoping (som kan føre til mer fokusert arbeid og raskere progresjon kanskje?)&#xD;&#xA; ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-533cfbbc0e704640b11c55643f0e0ca3"
