@@ -220,11 +220,6 @@
       <features
           name="labelExpression"
           value="Beskriver"/>
-      <bendpoints
-          startX="-6"
-          startY="60"
-          endX="-474"
-          endY="-54"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-2305d5961b014ebcab6e0de4242bec11.xml#id-2305d5961b014ebcab6e0de4242bec11"/>
